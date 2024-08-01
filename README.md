@@ -16,7 +16,7 @@ This data science project aims to discover meaningful clusters among Pokemon usi
 ## Dataset (Sources)
 
 The project uses a dataset containing various Pokemon statistics, focusing primarily on the Attack and HP attributes for clustering purposes.
-Here's the [Pokemon_Stats Dataset](https://drive.google.com/drive/folders/1b8MlRCUHI-9NQ__9VCSu9qJJTjjlKocW?usp=sharing) and [Pokemon Images Dataset](https://drive.google.com/drive/folders/17a1cY3gsQEZilRz00czq6GtanxFHksQV?usp=sharing) from [G-drive Source]. It includes various attributes of Pokemon, with a focus on Attack and HP for this clustering analysis.
+Here's the [Pokemon Stats Dataset](https://drive.google.com/drive/folders/1b8MlRCUHI-9NQ__9VCSu9qJJTjjlKocW?usp=sharing) and [Pokemon Images Dataset](https://drive.google.com/drive/folders/17a1cY3gsQEZilRz00czq6GtanxFHksQV?usp=sharing) from [G-drive Source]. It includes various attributes of Pokemon, with a focus on Attack and HP for this clustering analysis.
 
 ## Methodology
 
@@ -75,4 +75,4 @@ Here's the [Pokemon_Stats Dataset](https://drive.google.com/drive/folders/1b8MlR
 
 Feel free to customize the content as needed!
 
-## Results
+## Modeling Results
