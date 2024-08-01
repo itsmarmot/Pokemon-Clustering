@@ -54,17 +54,14 @@ Here's the [Pokemon_Stats Dataset](https://drive.google.com/drive/folders/1b8MlR
     ```bash
     python cluster_pokemon.py
     ```
-
-## Results
-
 <table>
   <tr>
-    <td><img src="images/model1.png" alt="Visualization 1" width="400"/></td>
-    <td>The central cluster (green and yellow colors) shows Pokemon with balanced Attack and Defense attributes. Purple clusters might represent Pokemon with lower            Attack and Defense. Yellow clusters indicate Pokemon with either high Attack or high Defense but within a specific range, showing a differentiation based on           these attributes.</td>
+    <td><img src="images/model1.png" alt="Visualization 1" width="1500"/></td>
+    <td>The central cluster (green and yellow colors) shows Pokemon with balanced Attack and Defense attributes. Purple clusters might represent Pokemon with lower Attack and Defense. Yellow clusters indicate Pokemon with either high Attack or high Defense but within a specific range, showing a differentiation based on these attributes.</td>
   </tr>
   <tr>
-    <td><img src="images/model2.png" alt="Visualization 2" width="400"/></td>
-    <td>The central cluster (green and yellow colors) indicates Pokemon with moderate HP and Speed. Purple and blue clusters represent Pokemon with lower HP and               varying Speed. Yellow clusters might indicate high-Speed Pokemon within a certain HP range, suggesting that Speed is a significant differentiating factor              within this HP range.</td>
+    <td><img src="images/model2.png" alt="Visualization 2" width="1500"/></td>
+    <td>The central cluster (green and yellow colors) indicates Pokemon with moderate HP and Speed. Purple and blue clusters represent Pokemon with lower HP and varying Speed. Yellow clusters might indicate high-Speed Pokemon within a certain HP range, suggesting that Speed is a significant differentiating factor within this HP range.</td>
   </tr>
   <tr>
 
@@ -77,3 +74,5 @@ Here's the [Pokemon_Stats Dataset](https://drive.google.com/drive/folders/1b8MlR
 ---
 
 Feel free to customize the content as needed!
+
+## Results
